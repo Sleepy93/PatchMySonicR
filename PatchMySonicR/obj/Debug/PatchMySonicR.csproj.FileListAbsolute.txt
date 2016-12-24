@@ -1,0 +1,17 @@
+F:\work\cs\PatchMySonicR\PatchMySonicR\bin\Debug\PatchMySonicR.exe.config
+F:\work\cs\PatchMySonicR\PatchMySonicR\bin\Debug\PatchMySonicR.exe
+F:\work\cs\PatchMySonicR\PatchMySonicR\bin\Debug\PatchMySonicR.pdb
+F:\work\cs\PatchMySonicR\PatchMySonicR\obj\Debug\PatchMySonicR.Form1.resources
+F:\work\cs\PatchMySonicR\PatchMySonicR\obj\Debug\PatchMySonicR.Properties.Resources.resources
+F:\work\cs\PatchMySonicR\PatchMySonicR\obj\Debug\PatchMySonicR.csproj.GenerateResource.Cache
+F:\work\cs\PatchMySonicR\PatchMySonicR\obj\Debug\PatchMySonicR.exe
+F:\work\cs\PatchMySonicR\PatchMySonicR\obj\Debug\PatchMySonicR.pdb
+D:\Projects\programming\2016\PatchMySonicR\PatchMySonicR\bin\Debug\PatchMySonicR.exe.config
+D:\Projects\programming\2016\PatchMySonicR\PatchMySonicR\obj\Debug\PatchMySonicR.exe
+D:\Projects\programming\2016\PatchMySonicR\PatchMySonicR\obj\Debug\PatchMySonicR.pdb
+D:\Projects\programming\2016\PatchMySonicR\PatchMySonicR\bin\Debug\PatchMySonicR.exe
+D:\Projects\programming\2016\PatchMySonicR\PatchMySonicR\bin\Debug\PatchMySonicR.pdb
+D:\Projects\programming\2016\PatchMySonicR\PatchMySonicR\obj\Debug\PatchMySonicR.csprojResolveAssemblyReference.cache
+D:\Projects\programming\2016\PatchMySonicR\PatchMySonicR\obj\Debug\PatchMySonicR.Form1.resources
+D:\Projects\programming\2016\PatchMySonicR\PatchMySonicR\obj\Debug\PatchMySonicR.Properties.Resources.resources
+D:\Projects\programming\2016\PatchMySonicR\PatchMySonicR\obj\Debug\PatchMySonicR.csproj.GenerateResource.Cache
